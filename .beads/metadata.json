@@ -1,0 +1,10 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "server",
+  "dolt_server_port": 3308,
+  "dolt_database": "raci_tap",
+  "project_id": "2bc310a0-a20e-458f-b14b-8de434d7a899",
+  "global_dolt_database": "beads_global",
+  "global_project_id": "00000000-0000-0000-0000-000000000000"
+}
